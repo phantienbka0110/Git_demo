@@ -1,1 +1,2 @@
-file khac o day
+file khac o day,
+toi da sua file
